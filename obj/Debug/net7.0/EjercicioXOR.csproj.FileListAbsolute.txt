@@ -1,0 +1,5 @@
+C:\Users\usuario\Desktop\Ing2023\IA\EjercicioXOR\obj\Debug\net7.0\EjercicioXOR.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Ing2023\IA\EjercicioXOR\obj\Debug\net7.0\EjercicioXOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Ing2023\IA\EjercicioXOR\obj\Debug\net7.0\EjercicioXOR.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Ing2023\IA\EjercicioXOR\obj\Debug\net7.0\EjercicioXOR.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Ing2023\IA\EjercicioXOR\obj\Debug\net7.0\EjercicioXOR.csproj.CoreCompileInputs.cache
